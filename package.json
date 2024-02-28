@@ -1,0 +1,19 @@
+{
+  "name": "dispensary-backendtest",
+  "version": "1.0.0",
+  "description": "Backend of a simple booking system for a dispensary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulara-dinuli/Dispensary-BackendTest.git"
+  },
+  "author": "Dulara_LoonsLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulara-dinuli/Dispensary-BackendTest/issues"
+  },
+  "homepage": "https://github.com/dulara-dinuli/Dispensary-BackendTest#readme"
+}
