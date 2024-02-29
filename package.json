@@ -4,6 +4,7 @@
   "description": "Backend of a simple booking system for a dispensary.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/dulara-dinuli/Dispensary-BackendTest/issues"
   },
-  "homepage": "https://github.com/dulara-dinuli/Dispensary-BackendTest#readme"
+  "homepage": "https://github.com/dulara-dinuli/Dispensary-BackendTest#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.0"
+  }
 }
