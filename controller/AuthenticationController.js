@@ -30,13 +30,15 @@ const register = (req,res,next) => {
                         lastName: req.body.lastName,
                         mobileNumber: req.body.mobileNumber,
                         email: req.body.email,
-                        profilePicture: req.body.profilePicture,
                         password: hashedPass
                     })
+                    if(req.file){
+                        user.profilePicture = req.file.path
+                    }
                     user.save()
                     .then(user => {
                         res.json({
-                            message: 'User Registrtion Successful!'
+                            message: 'User Registration Successful!'
                         })
                     })
                     .catch(error =>{
