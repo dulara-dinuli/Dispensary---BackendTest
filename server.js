@@ -5,7 +5,7 @@ const bodyParser = require('body-parser')
 
 const AuthRoute = require('./router/authRoute')  
 
-mongoose.connect('mongodb+srv://dularadinuli:xOhUZYjDOToUwbU4@cluster0.k0njgld.mongodb.net/', {useNewUrlParser:true, useUnifiedTopology:true})
+mongoose.connect('mongodb+srv://dularadinuli:xOhUZYjDOToUwbU4@cluster0.k0njgld.mongodb.net/')
 const db = mongoose.connection
 db.on('error', (err) => {
     console.log(err)
@@ -20,7 +20,7 @@ const app = express()
 app.use(morgan('dev'))
 app.use(bodyParser.urlencoded({extended:true}))
 app.use(bodyParser.json())
-app.use('/uploads', express.static('uploads'))
+app.use('/profilePictures', express.static('profilePictures'))
 
 const PORT = process.env.PORT || 3000
 
