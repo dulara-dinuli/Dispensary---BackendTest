@@ -67,10 +67,19 @@ const login =(req, res, next) => {
                 }
                 if(result){
                     let token = jwt.sign({name: user.firstName}, 'verySecretValue', {expiresIn: '1h'})
-                    res.json({
-                        message: 'Login Successful!',
-                        token
-                    })
+                    
+                    const userDetails = [
+                        `First Name: ${user.firstName}`,
+                        `Last Name: ${user.lastName}`,
+                        `Mobile Number: ${user.mobileNumber}`,
+                        `Email: ${user.email}`,
+                        `Profile Picture Path: ${user.profilePicture}`
+                    ];
+                    
+                    const message = `Login Successful!\n${userDetails.join('\n')}\nToken: ${token}`;
+                    
+                    res.set('Content-Type', 'text/plain');
+                    res.send(message);
                 }else{
                     res.json({
                         message: 'Password is incorrect!'
