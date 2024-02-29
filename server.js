@@ -5,7 +5,7 @@ const bodyParser = require('body-parser')
 
 const AuthRoute = require('./router/authRoute')  
 
-mongoose.connect('mongodb://localhost:27017/dispensarydb', {useNewUrlParser:true, useUnifiedTopology:true})
+mongoose.connect('mongodb+srv://dularadinuli:xOhUZYjDOToUwbU4@cluster0.k0njgld.mongodb.net/', {useNewUrlParser:true, useUnifiedTopology:true})
 const db = mongoose.connection
 db.on('error', (err) => {
     console.log(err)
