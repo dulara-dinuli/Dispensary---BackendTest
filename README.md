@@ -1,6 +1,6 @@
 # Simple Booking System for a Dispensary 🏥🔐
 
-<b>This web application was developed to test the user registration and login module of the system. This application currently hosted on Cyclic</b>
+<b>This backend was developed to test the user registration and login module of the system. This application currently hosted on Cyclic</b>
 
 Demo Web API to test on Postman:-
 <ul>
