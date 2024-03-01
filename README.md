@@ -4,13 +4,13 @@
 
 Demo Web API to test on Postman:-
 <ul>
-   <li>User Registration:- 
+   <li>User Registration (POST):- 
       <ul>
          <li>http://localhost:3000/api/userRegister (use this when need to upload a profile picture) </li> 
          <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/userRegister</a> (use this when not upload a profile picture) </li>
       </ul>
    </li>
-   <li>User Login:- 
+   <li>User Login (POST):- 
       <ul>
          <li>http://localhost:3000/api/userRegister</li>
          <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/userRegister</li>
