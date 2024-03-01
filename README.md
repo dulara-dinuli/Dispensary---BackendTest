@@ -15,6 +15,13 @@ Demo Web API to test on Postman:-
          <li>http://localhost:3000/api/userLogin</li>
          <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/userLogin</li>
       </ul>
+   </li>
+   <li>Show User Data (POST):- 
+      <ul>
+         <li>http://localhost:3000/api/showUser</li>
+         <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/showUser</li>
+      </ul>
+   </li>
 </ul>
 
 ---
@@ -48,10 +55,16 @@ User Registration (When password and confirm password don't match)</br>
 <img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(Unmatched%20Passwords).png"></p>
 
 User Login (Successful)</br>
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(Successfull).png"></p>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/35531e3e475ddce6a5a1354fc92db54153c967e7/ScreenShots/User%20Login%20(Successful).png"></p>
 
 User Login (User does not exist) </br>
 <img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(User%20not%20found).png"> </p>
 
 User Login (Incorrect Password) </br>
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(Incorrect%20Password).png"> 
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(Incorrect%20Password).png"> </p>
+
+Show User Data (Before Login/ Without token) </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/e2e5bd91ae9236615b2a97a2765d233911336f90/ScreenShots/Show%20User%20Data%20(Without%20Token).png"> </p>
+
+Show User Data (After Login/ With token) </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/e2e5bd91ae9236615b2a97a2765d233911336f90/ScreenShots/Show%20User%20Data%20(With%20Token).png"> 
