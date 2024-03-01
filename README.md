@@ -34,24 +34,24 @@ Demo Web API to test on Postman:-
 
 <h3>Previews:</h3>
 
-User Registration (Successful)
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(Successfull).png">
-User Registration (Successful) - MongoDB Collections
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20-%20MongoDB%20(Successfull).png">
-User Registration (Successful) - Uploaded photos are saved to the localhost server
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(Photos%20saved%20to%20the%20server).png">
+User Registration (Successful) </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(Successfull).png"> </br>
+User Registration (Successful) - MongoDB Collections </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20-%20MongoDB%20(Successfull).png"> </br>
+User Registration (Successful) - Uploaded photos are saved to the localhost server </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(Photos%20saved%20to%20the%20server).png"> </p>
 
-User Registration (User already exists)
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(User%20already%20exist).png">
+User Registration (User already exists) </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(User%20already%20exist).png"></p>
 
-User Registration (When password and confirm password don't match)
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(Unmatched%20Passwords).png">
+User Registration (When password and confirm password don't match)</br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Registration%20(Unmatched%20Passwords).png"></p>
 
-User Login (Successful)
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(Successfull).png">
+User Login (Successful)</br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(Successfull).png"></p>
 
-User Login (User does not exist)
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(User%20not%20found).png">
+User Login (User does not exist) </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(User%20not%20found).png"> </p>
 
-User Login (Incorrect Password)
-<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(Incorrect%20Password).png">
+User Login (Incorrect Password) </br>
+<img src= "https://github.com/dulara-dinuli/Dispensary-BackendTest/blob/037a6ecfde7098c784d8f6eb5d90a70dfc950a99/ScreenShots/User%20Login%20(Incorrect%20Password).png"> 
