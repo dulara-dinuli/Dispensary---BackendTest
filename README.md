@@ -12,8 +12,8 @@ Demo Web API to test on Postman:-
    </li>
    <li>User Login (POST):- 
       <ul>
-         <li>http://localhost:3000/api/userRegister</li>
-         <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/userRegister</li>
+         <li>http://localhost:3000/api/userLogin</li>
+         <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/userLogin</li>
       </ul>
 </ul>
 
