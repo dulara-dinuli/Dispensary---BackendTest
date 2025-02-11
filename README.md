@@ -1,25 +1,25 @@
 # Simple Booking System for a Dispensary 🏥🔐
 
-<b>This backend was developed to test the user registration and login module of the system. This application is currently hosted on Cyclic.</b>
+<b>This backend was developed to test the user registration and login module of the system. This Server is currently hosted on Vercel.</b>
 
 Demo Web API to test on Postman:-
 <ul>
    <li>User Registration (POST):- 
       <ul>
          <li>http://localhost:3000/api/userRegister (use this when need to upload a profile picture) </li> 
-         <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/userRegister</a> (use this when not upload a profile picture) </li>
+         <li>https://dispensary-backend-test.vercel.app/api/userRegister</a> (use this when not upload a profile picture) </li>
       </ul>
    </li>
    <li>User Login (POST):- 
       <ul>
          <li>http://localhost:3000/api/userLogin</li>
-         <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/userLogin</li>
+         <li>https://dispensary-backend-test.vercel.app/api/userLogin</li>
       </ul>
    </li>
    <li>Show User Data (POST):- 
       <ul>
          <li>http://localhost:3000/api/showUser</li>
-         <li>https://glamorous-tweed-jacket-hen.cyclic.app/api/showUser</li>
+         <li>https://dispensary-backend-test.vercel.app/api/showUser</li>
       </ul>
    </li>
 </ul>
