@@ -1,6 +1,6 @@
 # Simple Booking System for a Dispensary 🏥🔐
 
-<b>This backend was developed to test the user registration and login module of the system. This Server is currently hosted on Vercel.</b>
+<b>This backend was developed to test the user registration and login module of the system. This server was previously hosted on Cyclic but is now hosted on Vercel. Therefore, the naming of the snapshots may be different. </b>
 
 Demo Web API to test on Postman:-
 <ul>
